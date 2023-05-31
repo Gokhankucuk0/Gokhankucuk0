@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Ben Muzaffer, 2020'den beri tam zamanlı, full-stack 👨‍💻 kod yazmayı öğrenen bir geliştiriciyim  🚀</div>  
+### <div align="center">Merhaba Ben Gökhan, 2020'den beri tam zamanlı, full-stack 👨‍💻 kod yazmayı öğrenen bir geliştiriciyim  🚀</div>  
   
 
 - 🔭 Şu anda web üzerinde çalışıyorum.  
